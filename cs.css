@@ -1,0 +1,65 @@
+*{
+    /* padding: 0px;
+    margin: 0px;
+    border: 0px; */
+}
+.nav{
+display: inline-block;
+  
+   margin-top: 150px;
+  margin-left: 1000px;
+}
+.h1{
+    font-size: 30px;
+}
+.first{
+    border-radius: 5px;
+    margin-right: 10px;
+    padding: 3px;
+}
+.email{
+    border-radius: 5px;
+    padding: 3px 95px;
+    margin-top: 10px;
+}
+.pass{
+    border-radius: 5px;
+    margin-right: 10px;
+    margin-top: 10px;
+    padding: 3px;
+}
+.button{
+    border-radius: 5px;
+    padding: 3px 130px;
+    margin-top: 10px;
+    background-color: #f2a034;
+    color: white;
+    
+    
+}
+.fs{
+    border-radius: 5px;
+    padding: 3px 148px;
+    margin-top: 5px;
+    background-color: #324d8c;
+    color: white;
+}
+.tw{
+    border-radius: 5px;
+    padding: 3px 157px;
+    margin-top: 10px;
+    background-color: #08a0e9;
+    color: white;
+}
+.or{ text-align: center;
+margin-top: 2px;
+margin-bottom: 2px;}
+.bg{
+    background-color: #d5d5d5;
+}
+.im{
+    position: absolute;
+    top: 270px;
+    left: 350px;
+    height: 280px;
+}
